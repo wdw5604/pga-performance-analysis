@@ -1,6 +1,7 @@
 # PGA Tour Performance Analysis
 
 ** Overview **
+
 This project applies machine learning and data analytics to model PGA Tour player performance, leveraging historical Strokes Gained metrics and course features. The goal is to predict the likelihood of a player finishing in the Top 5, Top 10, or Top 20 of a specific tournament, helping identify key performance drivers for success.
 
 Full Data Science Workflow:
@@ -10,6 +11,7 @@ Full Data Science Workflow:
   - Visualization & Insights: Built an interactive Tableau dashboard for course difficulty analysis and player performance trends.
 
 **Tech Stack**
+
 Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, XGBoost
 Tools: Jupyter Notebook (VS Code), Tableau Public
