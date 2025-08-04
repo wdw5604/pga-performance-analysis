@@ -10,9 +10,9 @@ This project applies machine learning and data analytics to model PGA Tour playe
   - Visualization & Insights: Built an interactive Tableau dashboard for course difficulty analysis and player performance trends.
 
 ## Tech Stack
-Languages: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, XGBoost
-Tools: Jupyter Notebook (VS Code), Tableau Public
+- **Languages:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, XGBoost
+- **Tools:** Jupyter Notebook (VS Code), Tableau Public
 
 ## Validation Strategy: Stratified K-Fold vs TimeSeriesSplit
 At first, I used Stratified K-Fold cross-validation because it’s common for classification problems and ensures balanced class distribution in each fold. It gave pretty solid ROC-AUC scores (around 0.80+), which looked great on paper.
