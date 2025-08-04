@@ -21,10 +21,11 @@ But then I realized this isn’t realistic for a forecasting problem like predic
 
 So, I switched to **TimeSeriesSplit**, which respects chronological order. It trains on past events and tests on future events — exactly how this model would be used in real life. The trade-off? Scores dropped (ROC-AUC around 0.50–0.55), but that’s the honest truth: predicting golf outcomes with limited features and real-world constraints is tough.
 
-**Why keep the lower scores?** Because it shows I understand the importance of time-based validation and I’m not just chasing pretty numbers. If I had more time, I’d add advanced features like rolling averages, recent form, and player-course history to boost predictive power.
+**Why keep the lower scores?** Because it shows I understand the importance of time-based validation and I’m not just chasing pretty numbers. 
 
 ## Future Improvements
-- **Live Data Pipeline:** Connect to the DataGolf API for automatic updates and real-time predictions. Also would supply a wealth of player performance data.
+- **Live Data Pipeline:** Connect to the DataGolf API for automatic updates and real-time predictions. 
 - **Weather:** Use DataGolf API to pull real-time weather conditions
+- **Recent Form Features:** Add rolling averages for strokes gained metrics (e.g., last 3 and last 5 tournaments) to capture momentum.
 - **Hyperparameter Tuning & Imbalance Handling:** Optimize XGBoost parameters and use class weights to handle the natural imbalance in Top 5 / Top 10 outcomes.
 - **Model Comparisons:** Experiment with LightGBM or CatBoost and maybe even a neural network for fun
