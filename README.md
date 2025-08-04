@@ -13,3 +13,18 @@ This project applies machine learning and data analytics to model PGA Tour playe
 Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, XGBoost
 Tools: Jupyter Notebook (VS Code), Tableau Public
+
+## Validation Strategy: Stratified K-Fold vs TimeSeriesSplit
+At first, I used Stratified K-Fold cross-validation because it’s common for classification problems and ensures balanced class distribution in each fold. It gave pretty solid ROC-AUC scores (around 0.80+), which looked great on paper.
+
+But then I realized this isn’t realistic for a forecasting problem like predicting PGA results. Stratified K-Fold randomly shuffles data, which means the model can "peek into the future" during training. That’s a big issue if you want to simulate real-world performance.
+
+So, I switched to **TimeSeriesSplit**, which respects chronological order. It trains on past events and tests on future events — exactly how this model would be used in real life. The trade-off? Scores dropped (ROC-AUC around 0.50–0.55), but that’s the honest truth: predicting golf outcomes with limited features and real-world constraints is tough.
+
+**Why keep the lower scores?** Because it shows I understand the importance of time-based validation and I’m not just chasing pretty numbers. If I had more time, I’d add advanced features like rolling averages, recent form, and player-course history to boost predictive power.
+
+## Future Improvements
+- **Live Data Pipeline:** Connect to the DataGolf API for automatic updates and real-time predictions. Also would supply a wealth of player performance data.
+- **Weather:** Use DataGolf API to pull real-time weather conditions
+- **Hyperparameter Tuning & Imbalance Handling:** Optimize XGBoost parameters and use class weights to handle the natural imbalance in Top 5 / Top 10 outcomes.
+- **Model Comparisons:** Experiment with LightGBM or CatBoost and maybe even a neural network for fun
