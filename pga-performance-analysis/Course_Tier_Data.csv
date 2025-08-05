@@ -1,0 +1,70 @@
+course,is_long,is_short,fast_greens,is_penal,is_narrow,is_rough,is_target,is_altitude,is_windy,is_coastal,is_classic
+"Aronimink Golf Club - Newton Square, PA",1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,
+"Augusta National Golf Club - Augusta, GA",1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+"Baltusrol - Springfield, NJ",1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,
+"Bay Hill - Orlando, FL",1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,
+"Bellerive Country Club - St. Louis, MO",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+"Bethpage - Farmingdale, NY",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Caves Valley Golf Club - Baltimore, MD",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Chapultepec - Mexico City, Mexico",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Colonial - Ft. Worth, TX",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+"Congaree Golf Club - Ridgeland, SC",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Congressional - Bethesda, MD",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Conway Farms Golf Club - Lake Forest, IL",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Country Club of Jackson - Jackson, MS",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Crooked Stick - Carmel, IN",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Detroit Golf Club - Detroit, MI",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Eagle Point Golf Club - Wilmington, NC",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"East Lake Golf Club - Atlanta, GA",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Firestone Country Club - Akron, OH",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Glen Abbey Golf Club - Oakville, Canada",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Glen Oaks Club - Old Westbury, NY",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Golf Club of Houston - Houston, TX",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Hamilton - Hamilton, Ontario, Canada",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Harbour Town Golf Links - Hilton Head Island, SC",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+"Innisbrook - Palm Harbor, FL",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Kapalua Resort - Kapalua, HI",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+"Keene Trace Golf Club - Nicholasville, KY",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Kiawah Island Golf Resort - Kiawah Island, SC",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"La Quinta CC - La Quinta, CA",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Liberty National - Jersey City, NJ",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Medinah - Medinah, IL",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Memorial Park GC - Houston, TX",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Muirfield Village Golf Club - Dublin, OH",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Old White Course - White Sulphur Springs, WV",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Olympia Fields Country Club - Olympia Fields, IL",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"PGA National - Palm Beach Gardens, FL",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Pebble Beach Resort - Pebble Beach, CA",0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+"Quail Hollow Club - Charlotte, NC",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Redstone Golf Club - Houston, TX",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Ridgewood Country Club - Paramus, NJ",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Riviera Country Club - Pacific Palisades, CA",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Robert Trent Jones Golf Trail - Auburn, AL",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sea Island Resort - Sea Island, GA",0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+"Sedgefield Country Club - Greensboro, NC",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"Shadow Creek GC - Las Vegas, NV",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sherwood CC - Thousand Oaks, CA",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Silverado Resort - Napa, CA",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Southern Hills Country Club - Tulsa, OK",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+"TPC Boston - Norton, MA",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Craig Ranch - McKinney, TX",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Deere Run - Silvis, IL",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Four Seasons Resort Las Colinas - Irving, TX",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Harding Park - San Francisco, CA",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Potomac at Avenel Farm - Potomac, MD",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC River Highlands - Cromwell, CT",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC San Antonio - San Antonio, TX",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Sawgrass - Ponte Vedra Beach, FL",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Scottsdale - Scottsdale, AZ",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Southwind - Memphis, TN",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Summerlin - Las Vegas, NV",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"TPC Twin Cities - Blaine, MN",1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"The Concession Golf Club - Bradenton, FL",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"The Summit Club - Las Vegas, NV",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Torrey Pines North - La Jolla, CA",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Torrey Pines South - La Jolla, CA",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Trinity Forest Golf Club - Dallas, TX",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vidanta Vallarta - Villa Hidalgo, Mexico",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Waialae CC - Honolulu, HI",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Whistling Straits - Kohler, WI",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Winged Foot GC - Mamaroneck, NY",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
